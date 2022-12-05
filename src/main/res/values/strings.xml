@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Greetingapp</string>
+    <string name="button">Button</string>
+    <string name="name">Name</string>
+    <string name="enter_your_name">Enter your Name</string>
+    <string name="the_greeting_app">The Greeting APP</string>
+</resources>
